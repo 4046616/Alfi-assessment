@@ -8,7 +8,7 @@ Question 1 - form validation with dynmic form and input statics
 --------------
 
 If fields are empty.
-![image](https://user-images.githubusercontent.com/14177203/115186494-b1980280-a096-11eb-8966-0731e6777089.png | width=100)
+![](https://user-images.githubusercontent.com/14177203/115186494-b1980280-a096-11eb-8966-0731e6777089.png | width=100)
 
 After submitting form and also show loading when user click on submit and after successfully updating data alert
 
