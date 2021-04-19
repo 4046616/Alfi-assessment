@@ -6,11 +6,11 @@ export default function Alerts(props) {
         {props.alert?
           (
             <SweetAlert
-            {...props.type}
-            title={props.message}
-            timer={2000}
-            onConfirm={props.onConfirm}
-          >
+              {...props.type}
+              title={props.message}
+              timer={2000}
+              onConfirm={props.onConfirm}
+            >
           </SweetAlert>
           ): null
         } 

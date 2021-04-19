@@ -24,8 +24,12 @@ export default class Api {
         .then(response => response.json())
         .then(json => {
             console.log(json);
-            // Show Successfully added
-            setAlert({loading: true, message: 'Added Successfully!', type:''});
+            if(json.id === 101) {
+                // Show Successfully added
+                setAlert({loading: true, message: 'Added Successfully!', type:'success'});
+            } else {
+                setAlert({loading: true, message: 'Something wrong!', type:'warning'});
+            }
         })
         .catch(error => {
             console.log(error);

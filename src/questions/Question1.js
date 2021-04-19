@@ -48,7 +48,7 @@ export default function Question1 (props) {
   return (
     <div>
       {/* Loading and alert  */}
-      <Alerts message={alert.message} alert={alert.loading} type={alert.type} onConfirm={onConfirm}/>
+      <Alerts message={alert.message} alert={alert.loading} cat={alert.type} onConfirm={onConfirm}/>
       {/* Form details */}
       <form onSubmit={handleSubmit(onSubmit)}>
         {/* form input fields dynamically  */}
@@ -93,6 +93,5 @@ export default function Question1 (props) {
         </button>
       </form>
     </div>
-
   )
 }

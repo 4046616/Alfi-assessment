@@ -8,12 +8,9 @@ For submission, Github is preferred (JSFiddle, Codepen, CodeSandbox etc are fine
 
 Good luck, and have fun!
 
+### Completed all the questions
 
-
-
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Just Finished the 
 
 ### Available Scripts
 
