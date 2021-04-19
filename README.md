@@ -26,4 +26,11 @@ after clicking on marker showing stop and destinations of the bus
 
 ### Liberaries:  SweetAlert for alert and loading, Moment, Google map and Bootstrap
 
+### Yarn test result:
+![image](https://user-images.githubusercontent.com/14177203/115190092-5c5eef80-a09c-11eb-82b1-603965596ed4.png)
 
+### yarn build result:
+![image](https://user-images.githubusercontent.com/14177203/115190197-887a7080-a09c-11eb-86ab-aee2a3c6c174.png)
+
+Google map API is old and don't support this version may you get warning in your console but good thing is google map will work normal.
+![image](https://user-images.githubusercontent.com/14177203/115189956-2d487e00-a09c-11eb-93fd-ab459f97aa01.png)
