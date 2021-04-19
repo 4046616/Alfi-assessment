@@ -11,7 +11,6 @@ If fields are empty.
 <img src="https://user-images.githubusercontent.com/14177203/115186494-b1980280-a096-11eb-8966-0731e6777089.png" data-canonical-src="https://user-images.githubusercontent.com/14177203/115186494-b1980280-a096-11eb-8966-0731e6777089.png" width="80%" height="auto" />
 
 After submitting form and also show loading when user click on submit and after successfully updating data alert
-
 <img src="https://user-images.githubusercontent.com/14177203/115188673-1bfe7200-a09a-11eb-805d-a120634371db.png" data-canonical-src="https://user-images.githubusercontent.com/14177203/115188673-1bfe7200-a09a-11eb-805d-a120634371db.png" width="80%" height="auto" />
 
 **Liberaries:  SweetAlert for alert and loading, yup for form, and @hookform/resolvers**
