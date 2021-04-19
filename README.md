@@ -8,7 +8,7 @@ If fields are empty.
 
 After submitting form and also show loading when user click on submit and after successfully updating data alert
 
-![image](https://user-images.githubusercontent.com/14177203/115187218-cc1eab80-a097-11eb-9ab6-b05f21e0c733.png)
+![image](https://user-images.githubusercontent.com/14177203/115188673-1bfe7200-a09a-11eb-805d-a120634371db.png)
 
 ### Liberaries:  SweetAlert for alert, yup for form, and @hookform/resolvers
 
