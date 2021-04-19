@@ -1,80 +1,29 @@
-# Alfi Technical Test
+### Mohsan Iqbal
+916 581 9359
+Mohsaniqbal387@gmail.com
 
-There are 3 questions contained in this repo. Please work through them at your own pace, and complete them however you wish.
+### Question 1 - form validation with dynmic form and input statics
+If fields are empty.
+![image](https://user-images.githubusercontent.com/14177203/115186494-b1980280-a096-11eb-8966-0731e6777089.png)
 
-Don't spend too much time on this (2-3 hours *max*). What we are looking for are core concepts, interesting ideas, and clean code.
+After submitting form and also show loading when user click on submit and after successfully updating data alert
 
-For submission, Github is preferred (JSFiddle, Codepen, CodeSandbox etc are fine if you have trouble) - just fork the repo and send a link to conor@getalfi.com and lorenzo@getalfi.com when you're done (and remember to give us permissions!).
+![image](https://user-images.githubusercontent.com/14177203/115188673-1bfe7200-a09a-11eb-805d-a120634371db.png)
 
-Good luck, and have fun!
+### Liberaries:  SweetAlert for alert and loading, yup for form, and @hookform/resolvers
 
-### Completed all the questions
+### Question 2 - array filter on each input key
 
-Just Finished the 
+![image](https://user-images.githubusercontent.com/14177203/115187336-fa03f000-a097-11eb-9e30-c70f42eb237c.png)
 
-### Available Scripts
 
-In the project directory, you can run:
+### Question 3 - showing all stops on google map and then after clicking on marker showing destination and stop information
+All stops with marker
+![image](https://user-images.githubusercontent.com/14177203/115188879-713a8380-a09a-11eb-963f-5ad3c82c57cd.png)
 
-#### `yarn start`
+after clicking on marker showing stop and destinations of the bus
+![image](https://user-images.githubusercontent.com/14177203/115188957-93340600-a09a-11eb-80f3-613fa95526ba.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Liberaries:  SweetAlert for alert and loading, Moment, Google map and Bootstrap
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-#### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-#### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-#### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-### Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-#### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-#### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-#### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-#### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-#### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-#### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
